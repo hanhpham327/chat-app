@@ -4,7 +4,7 @@ class Chat extends Component {
     render(){
         return (
             <div className="div">
-                <h1 className="center">Chat Room</h1>
+                <h1 className="center">Welcome to the Chatroom</h1>
             </div>
         )
     }
